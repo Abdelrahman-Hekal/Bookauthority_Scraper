@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bookauthority_Scraper", "Bookauthority_Scraper.pyproj", "{F6209BFF-C287-4117-8B52-F220FCFC0612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6209BFF-C287-4117-8B52-F220FCFC0612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6209BFF-C287-4117-8B52-F220FCFC0612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9CBC315-DAB5-40C7-886D-6728AAE26092}
+	EndGlobalSection
+EndGlobal
